@@ -2,7 +2,7 @@
 <h1 align="center">💀 Royalthi13 💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FF00&width=435&lines=Estudiante+de+DAM;Apasionado+por+el+Hacking+Ético;Red+Team+%7C+Ingeniería+Inversa;CTF+Player+%7C+Linux+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FF00&width=435&lines=Estudiante+de+DAM;Apasionado+por+el+Hacking+Ético;Red+Team+%7C+Ingeniería+Inversa;CTF+Player+%7C+Linux+Lover" alt="Typing SVG" />
 </p>
 
 ---
