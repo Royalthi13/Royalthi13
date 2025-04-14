@@ -14,7 +14,7 @@
 -estudiante de DAM con mentalidad hacker 🧠
 ```
 
-💻 Me interesa todo lo relacionado con el **hacking ético**, **inteligencia artificial**,**CTFs** y la **programación**.  
+💻 Me interesa todo lo relacionado con el **hacking ético**, **inteligencia artificial**,**CTFs** y  **programación**.  
 🔎 Amante de la **ingeniería inversa** y el aprendizaje autodidacta.  
 🧪 Siempre explorando cosas nuevas.  
 🎓 Actualmente estudiando **Desarrollo de Aplicaciones Multiplataforma**.
